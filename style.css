@@ -1,0 +1,12 @@
+.center{
+    display: block;
+    text-align: center;
+}
+.setting{
+    padding-top: 109px;
+}
+.inptext{
+        border-radius: 100px;
+        border: 1px solid #000000;
+        padding: 15px 200px 15px 200px;
+}
